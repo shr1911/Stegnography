@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Stegnography</string>
+    <string name="encode_button">Encode</string>
+    <string name="decode_button">Decode</string>
+    <string name="welcome_to_stegnography">Welcome to Stegnography !</string>
+    <string name="text_encode_button">Text</string>
+    <string name="voice_encode_button">Voice</string>
+    <string name="type_of_data_for_encoding">Type of data for encoding :</string>
+    <string name="title_activity_decoding">DecodingActivity</string>
+    <string name="browse">Browse</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Happy Ecoding!</string>
+    <string name="slide_1_desc">Enter message and store it in image! You can either browse or capture the image</string>
+
+    <string name="slide_2_title">Happy Decoding!</string>
+    <string name="slide_2_desc">Select the image to to be decoded!</string>
+    <string name="slide_2_note">Note:  Encoded Image has to be browsed from Stego folder</string>
+
+    <string name="slide_3_title">Share Encoded Images Via</string>
+    <string name="slide_3_desc">Encoded images can be shared via Email, Bluetooth or SHAREit!</string>
+
+    <string name="slide_4_title">Warning</string>
+    <string name="slide_4_desc">Do not share images via WhatsApp or Facebook because these apps compresses images which so there will be loss of encoded message</string>
+</resources>
